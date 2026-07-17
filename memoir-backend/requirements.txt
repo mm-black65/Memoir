@@ -1,0 +1,6 @@
+# requirements.txt - Python 3.14 compatible
+flask==2.2.5
+flask-cors==4.0.0
+requests==2.31.0
+python-dotenv==1.0.0
+Werkzeug==2.3.8

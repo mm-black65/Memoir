@@ -1,0 +1,57 @@
+[
+  {
+    "user": "hello",
+    "assistant": "\u26a0\ufe0f Groq API key not configured. Please add GROQ_API_KEY to .env file.",
+    "timestamp": 0
+  },
+  {
+    "user": "hello",
+    "assistant": "\u26a0\ufe0f Groq API key not configured. Please add GROQ_API_KEY to .env file.",
+    "timestamp": 0
+  },
+  {
+    "user": "hello",
+    "assistant": "\u26a0\ufe0f Groq API key not configured. Please add GROQ_API_KEY to .env file.",
+    "timestamp": 0
+  },
+  {
+    "user": "hello",
+    "assistant": "\u26a0\ufe0f Groq API key not configured. Please add GROQ_API_KEY to .env file.",
+    "timestamp": 0
+  },
+  {
+    "user": "hello",
+    "assistant": "\u26a0\ufe0f Groq error: The model `llama3-8b-8192` has been decommissioned and is no longer supported. Please refer to https://console.groq.com/docs/deprecations for a recommendation on which model to use instead.",
+    "timestamp": 0
+  },
+  {
+    "user": "hello",
+    "assistant": "\u26a0\ufe0f Groq error: The model `gemma2-9b-it` has been decommissioned and is no longer supported. Please refer to https://console.groq.com/docs/deprecations for a recommendation on which model to use instead.",
+    "timestamp": 0
+  },
+  {
+    "user": "hello",
+    "assistant": "Hello! How can I assist you today?",
+    "timestamp": 0
+  },
+  {
+    "user": "what is weather",
+    "assistant": "Weather refers to the temporary and local conditions of the atmosphere at a specific place and time, including temperature, humidity, cloudiness, wind, precipitation, and other factors.",
+    "timestamp": 0
+  },
+  {
+    "user": "whatt is time",
+    "assistant": "Time is a measure of the duration between events, past, present, and future. It's a way to quantify the sequence of events and is often divided into units like seconds, minutes, hours, days, weeks, months, and years.",
+    "timestamp": 0
+  },
+  {
+    "user": "i ment tell me time",
+    "assistant": "Unfortunately, I'm a text-based AI and don't have real-time access to your location. However, I can suggest ways for you to find out the current time:\n\n1. Check your phone or computer's clock.\n2. Search online for \"current time\" or \"time in [your location]\".\n3. Ask a voice assistant like Siri, Google Assistant, or Alexa.",
+    "timestamp": 0
+  },
+  {
+    "user": "what is newtons law",
+    "assistant": "Newton's Laws are three fundamental principles in physics:\n\n1. **First Law (Law of Inertia):** An object at rest stays at rest, and an object in motion stays in motion, unless acted upon by an external force.\n2. **Second Law (F = ma):** Force (F) is equal to mass (m) times acceleration (a).\n3. **Third Law (Action-Reaction):** For every action, there is an equal and opposite reaction.\n\nThese laws describe how objects move and respond to forces.",
+    "timestamp": 0
+  }
+]
